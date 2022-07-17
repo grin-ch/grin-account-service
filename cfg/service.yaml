@@ -1,0 +1,28 @@
+server:
+  name: grin-account-service
+  host: 192.168.1.102
+  port: 8081
+
+registry:
+  provider: etcd
+  endpoint: ["http://192.168.1.102:2379"]
+  path: config
+  timeout: 30
+
+log:
+  path: "./log/"
+  level: 4
+  color: true
+  collar: false
+
+redis:
+  addr: 192.168.1.102:6379
+  pass:
+  db: 0
+
+database:
+  port: 3306
+  host: 192.168.1.103
+  name: grinaccount
+  user: root
+  pass: root
