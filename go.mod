@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/grin-ch/grin-api v0.0.0-20220525142835-e811f0c4ce12
-	github.com/grin-ch/grin-etcd-center v0.0.0-20220717153124-3dda1f5eea8b
+	github.com/grin-ch/grin-etcd-center v0.0.0-20220718143413-5e600f151ba3
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/lestrrat-go/file-rotatelogs v2.4.0+incompatible
 	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5

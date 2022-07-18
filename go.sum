@@ -232,6 +232,8 @@ github.com/grin-ch/grin-etcd-center v0.0.0-20220717145001-ac46e4e342bd h1:jaH1MN
 github.com/grin-ch/grin-etcd-center v0.0.0-20220717145001-ac46e4e342bd/go.mod h1:e/FXrw0SeZ5KNgJkZv8BRGk50kCRF863tK9tQTSxtoM=
 github.com/grin-ch/grin-etcd-center v0.0.0-20220717153124-3dda1f5eea8b h1:Xu3lqRk5dmPetIxxE18R7k66dJaXeQEsLkypZBIHiLY=
 github.com/grin-ch/grin-etcd-center v0.0.0-20220717153124-3dda1f5eea8b/go.mod h1:e/FXrw0SeZ5KNgJkZv8BRGk50kCRF863tK9tQTSxtoM=
+github.com/grin-ch/grin-etcd-center v0.0.0-20220718143413-5e600f151ba3 h1:7IMHBF79ByFsh983cIMbohmWJGyXp16IyvBkGwgi8XI=
+github.com/grin-ch/grin-etcd-center v0.0.0-20220718143413-5e600f151ba3/go.mod h1:e/FXrw0SeZ5KNgJkZv8BRGk50kCRF863tK9tQTSxtoM=
 github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 h1:+9834+KizmvFV7pXQGSXQTsaWhq2GjuNUt0aUU0YBYw=
 github.com/grpc-ecosystem/go-grpc-middleware v1.3.0/go.mod h1:z0ButlSOZa5vEBq9m2m2hlwIgKw+rp3sdCBRoJY+30Y=
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
